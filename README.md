@@ -28,7 +28,7 @@ Create your own task environment with the file found from our Github: turtlebot3
 | graafit | Learning graphs as .png files and learning data as .txt files |
 | my_turtlebot3_openai_example | Main source files used by ROS |
 | worlds | Gazebo environments created from the Blender models |
-| turtlebot3_task.py |   |
+| turtlebot3_task.py | Task environment for qlearning  |
 
 # Terminal commands
 Initiate Gazebo environment, launch file name depends on the world that is launched:
