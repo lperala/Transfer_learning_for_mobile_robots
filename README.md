@@ -19,7 +19,7 @@ https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/#g
 3. Install OpenAI for ROS by following this tutorial:
 http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 You can replace everything that says turtlebot2 with turtlebot3. 
-Create your own task environment with the file found from our Github: turtlebot3_task.py
+Create your own task environment according to section 2.4 in the link above. Use the file found from our Github as the task environment: turtlebot3_task.py
 
 # File Description
 | File/Folder Name | Description |
