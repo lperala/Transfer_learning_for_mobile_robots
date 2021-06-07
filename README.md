@@ -33,18 +33,18 @@ Create your own task environment with the file found from our Github: turtlebot3
 # Terminal commands
 Initiate Gazebo environment, launch file name depends on the world that is launched:
 
-roslaunch turtlebot3_gazebo <LAUNCH_FILE_NAME>.launch
+>roslaunch turtlebot3_gazebo <LAUNCH_FILE_NAME>.launch
 
 Start training the Turtlebot with OpenAI:
 
-roslaunch my_turtlebot3_openai_example start_training.launch
+>roslaunch my_turtlebot3_openai_example start_training.launch
 
 The learning curve can be plotted in real-time by using ROS rqt-multiplot:
 
-roslaunch rqt_multiplot rqt_multiplot
+>roslaunch rqt_multiplot rqt_multiplot
 
 This command opens up a new window where the user can create a plot based on active ROS topics. OpenAI can be found by writing /openai/reward and setting the x-axis to show "episode\_number" and y-axis "episode\_reward". This way the x-axis will portray the number of training episodes and y-axis the rewards the robot has received in total.
 
 Run LiDAR spoofing script:
 
-python3 coordinated_laser_spoof.py
+>python3 coordinated_laser_spoof.py
