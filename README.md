@@ -43,8 +43,6 @@ The learning curve can be plotted in real-time by using ROS rqt-multiplot:
 
 >roslaunch rqt_multiplot rqt_multiplot
 
-This command opens up a new window where the user can create a plot based on active ROS topics. OpenAI can be found by writing /openai/reward and setting the x-axis to show "episode\_number" and y-axis "episode\_reward". This way the x-axis will portray the number of training episodes and y-axis the rewards the robot has received in total.
-
 Run LiDAR spoofing script:
 
 >python3 coordinated_laser_spoof.py
