@@ -22,5 +22,9 @@ http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 # File Description
 | File/Folder Name | Description |
 | --- | --- |
-| test | test2 |
+| blender_models | test2 |
+| buildings | test2 |
+| graafit | test2 |
+| my_turtlebot3_openai_example | test2 |
+| worlds | test2 |
 
