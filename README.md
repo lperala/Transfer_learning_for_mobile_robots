@@ -16,7 +16,7 @@ http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 2. Launch the Turlebot3 in Gazebo environment:
 https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/#gazebo
 
-3. Install OpenAI for ROS:
+3. Install OpenAI for ROS by following this tutorial:
 http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 
 # File Description
