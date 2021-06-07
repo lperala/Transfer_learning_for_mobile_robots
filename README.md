@@ -10,4 +10,4 @@ http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
 2. Launch the Turlebot3 in Gazebo environment:
 https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/#gazebo
-
+:D
