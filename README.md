@@ -22,9 +22,9 @@ http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros
 # File Description
 | File/Folder Name | Description |
 | --- | --- |
-| blender_models | Create gazebo environments from blender models |
-| graafit | test2 |
-| my_turtlebot3_openai_example | test2 |
-| worlds | test2 |
-| turtlebot3_task.py | test2 |
+| blender_models | Blender models used to create Gazebo environments |
+| graafit | Learning graphs as .png files and learning data as .txt files |
+| my_turtlebot3_openai_example | Main source files used by ROS |
+| worlds | Gazebo environments created from the Blender models |
+| turtlebot3_task.py |  |
 
